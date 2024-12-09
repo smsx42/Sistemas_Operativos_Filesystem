@@ -1,0 +1,4 @@
+fisopfs
+*.o
+prueba
+persistence_file.fisopfs
